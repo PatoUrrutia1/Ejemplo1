@@ -1,0 +1,20 @@
+$color-principal: rgb(128, 204, 138);
+$color-secundario: rgb(131, 43, 247);
+
+h4,h5,h6{
+    color: $color-principal;
+}
+
+div{
+    h5{
+        color: $color-secundario;
+    }
+    h4{
+        color: aquamarine;
+    }
+}
+
+.alineacion{
+    text-align: center;
+    
+}

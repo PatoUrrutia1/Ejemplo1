@@ -1,0 +1,14 @@
+h4, h5, h6 {
+  color: #80cc8a;
+}
+
+div h5 {
+  color: #832bf7;
+}
+div h4 {
+  color: aquamarine;
+}
+
+.alineacion {
+  text-align: center;
+}
